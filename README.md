@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 - 👨‍🔬 Undergraduate student with a deep interest in applying tech to solve real-world scientific and engineering problems
 - 💡 Passionate about web technologies like React, Node.js, and modern design systems
 - 🧠 Currently exploring how digital tools and platforms can make research and collaboration in science more effective
-- 📚 Always learning — right now diving into TypeScript, Next.js, and cloud deployment with Firebase & Vercel
+
 
 ---
 
