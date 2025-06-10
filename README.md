@@ -3,7 +3,7 @@
 🎓 Chemical & Biochemical Engineering Student at [IIT Dharwad](https://www.iitdh.ac.in)  
 💻 Web Development Enthusiast | 🌱 Lifelong Learner | 🧪 Tech meets Science
 
-Welcome to my GitHub portfolio! I’m blending my academic background in chemical and biochemical sciences with a growing passion for full-stack web development. Whether it's building web apps, automating workflows, or learning new frameworks, I’m always up for a challenge.
+Welcome to my GitHub portfolio! I’m blending my academic background in chemical and biochemical engineering with a growing passion for full-stack web development. Whether it's building web apps, automating workflows, or learning new frameworks, I’m always up for a challenge.
 
 ---
 
