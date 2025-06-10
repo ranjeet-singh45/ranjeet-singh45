@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 
 ---
 
-### 📝 [Personal Portfolio Website](https://yourwebsite.com)
+### 📝 [Personal Portfolio Website](https://github.com/ranjeet-singh45)
 > My personal site showcasing projects, resume, and a blog on tech + science topics. Built with Next.js & Tailwind CSS.
 
 ---
