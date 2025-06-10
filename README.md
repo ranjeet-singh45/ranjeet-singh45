@@ -18,8 +18,9 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 
 ## 🛠️ Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=cpp/html,css,js,python)
+![Languages](https://skillicons.dev/icons?i=c++,html,css,js,python)
 ![Frameworks](https://skillicons.dev/icons?i=react,bootstrap,nodejs,express)
+![Databases](https://skillicons.dev/icons?i=postgres,mongo)
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
