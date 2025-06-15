@@ -23,12 +23,7 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 ![Databases](https://skillicons.dev/icons?i=postgres,mongo)
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
----
 
-### 📝 [Personal Portfolio Website](https://github.com/ranjeet-singh45)
-> My personal site showcasing projects, resume, and a blog on tech + science topics. Built with Next.js & Tailwind CSS.
-
----
 
 ## 📫 Get in Touch
 
