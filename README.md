@@ -1,7 +1,7 @@
-# 👋 Hey there, I'm Ranjeet Singh
+#  Hey there, I'm Ranjeet Singh
 
-🎓 Chemical & Biochemical Engineering Student at [IIT Dharwad](https://www.iitdh.ac.in)  
-💻 Web Development Enthusiast | 🌱 Lifelong Learner | 🧪 Tech meets Science
+ Chemical & Biochemical Engineering Student at [IIT Dharwad](https://www.iitdh.ac.in)  
+ Web Development Enthusiast |  Lifelong Learner |  Tech meets Science
 
 Welcome to my GitHub portfolio! I’m blending my academic background in chemical and biochemical engineering with a growing passion for full-stack web development. Whether it's building web apps, automating workflows, or learning new frameworks, I’m always up for a challenge.
 
@@ -9,14 +9,14 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 
 ## 🚀 About Me
 
-- 👨‍🔬 Undergraduate student with a deep interest in applying tech to solve real-world scientific and engineering problems
-- 💡 Passionate about web technologies like React, Node.js, and modern design systems
-- 🧠 Currently exploring how digital tools and platforms can make research and collaboration in science more effective
+-  Undergraduate student with a deep interest in applying tech to solve real-world scientific and engineering problems
+-  Passionate about web technologies like React, Node.js, and modern design systems
+-  Currently exploring how digital tools and platforms can make research and collaboration in science more effective
 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=cpp,html,css,js,python)
 ![Frameworks](https://skillicons.dev/icons?i=react,bootstrap,nodejs,express)
