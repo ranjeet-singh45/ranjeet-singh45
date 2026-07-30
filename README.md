@@ -1,6 +1,6 @@
 #  Hey there, I'm Ranjeet Singh
 
- Chemical & Biochemical Engineering Student at [IIT Dharwad](https://www.iitdh.ac.in)  
+ B.Tech at [IIT Dharwad](https://www.iitdh.ac.in)  
  Full-stack Developer  |  AL/ML Enthusiast |  Tech meets Science
 
 Welcome to my GitHub portfolio! I’m blending my academic background in chemical and biochemical engineering with a growing passion for full-stack web development. Whether it's building web apps, automating workflows, or learning new frameworks, I’m always up for a challenge.
