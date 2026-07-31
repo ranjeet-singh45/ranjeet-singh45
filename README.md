@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 
 ---
 
-## 🚀 About Me
+## About Me
 
 -  Undergraduate student with a deep interest in applying tech to solve real-world scientific and engineering problems
 -  Passionate about web technologies like React, Node.js, and modern design systems
@@ -24,12 +24,12 @@ Welcome to my GitHub portfolio! I’m blending my academic background in chemica
 
 
 
-## 📫 Get in Touch
+##  Get in Touch
 
-- 📧 Email: [Email](mailto:singhranjeet1303@gmail.com)
-- 🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/ranjeet-singh-669416251)
+-  Email: [Email](mailto:singhranjeet1303@gmail.com)
+-  LinkedIn: [LinkedIn](www.linkedin.com/in/ranjeet-singh-669416251)
 
 
 ---
 
-⭐️ *Thanks for visiting my GitHub profile! Feel free to explore, star, or contribute to any of my projects.*
+*Thanks for visiting my GitHub profile! Feel free to explore, star, or contribute to any of my projects.*
