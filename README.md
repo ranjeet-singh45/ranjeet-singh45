@@ -1,6 +1,6 @@
 # Hey there, I'm Ranjeet Singh 👋
 
-B.Tech Student at [IIT Dharwad](https://www.iitdh.ac.in) 
+B.Tech graduate from [IIT Dharwad](https://www.iitdh.ac.in) 
 Full-Stack Developer | AI/ML Enthusiast | RAG Systems
 
 Welcome to my GitHub portfolio! I build full-stack web applications and explore Machine Learning and AI, with a particular focus on Retrieval-Augmented Generation (RAG) systems. Whether it's building web apps, automating workflows, or learning new frameworks, I'm always up for a challenge.
