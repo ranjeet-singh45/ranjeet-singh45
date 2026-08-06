@@ -1,34 +1,49 @@
-#  Hey there, I'm Ranjeet Singh
+# Hey there, I'm Ranjeet Singh 👋
 
- B.Tech at [IIT Dharwad](https://www.iitdh.ac.in)  
- Full-stack Developer  |  AL/ML Enthusiast |  Tech meets Science
+B.Tech Student at [IIT Dharwad](https://www.iitdh.ac.in) 
+Full-Stack Developer | AI/ML Enthusiast | RAG Systems
 
-Welcome to my GitHub portfolio! I’m blending my academic background in chemical engineering with a growing passion for full-stack web development and Machine Learning. Whether it's building web apps, automating workflows, or learning new frameworks, I’m always up for a challenge.
+Welcome to my GitHub portfolio! I build full-stack web applications and explore Machine Learning and AI, with a particular focus on Retrieval-Augmented Generation (RAG) systems. Whether it's building web apps, automating workflows, or learning new frameworks, I'm always up for a challenge.
 
 ---
 
 ## About Me
 
--  Undergraduate student with a deep interest in applying tech to solve real-world scientific and engineering problems
--  Passionate about web technologies like React, Node.js, and modern design systems
-
+- 🎓 B.Tech graduate from IIT Dharwad (2022 – 2026)
+- 💻 Passionate about full-stack web development with React, Node.js, and modern design systems
+- 🤖 Exploring AI/ML, with hands-on experience building RAG pipelines using LangChain, FAISS, and Hugging Face embeddings
+- 📈 Solved 850+ DSA problems in C++, covering arrays, trees, graphs, and dynamic programming
 
 ---
 
-##  Tech Stack
+## 🚀 Featured Projects
 
-![Languages](https://skillicons.dev/icons?i=cpp,java,python,html,css,js)
+**[Context-Aware RAG for Web-Based QA](#)**
+A full Retrieval-Augmented Generation system built through seven iterative stages, integrating query transformation, routing, advanced indexing, re-ranking, and self-correcting strategies (CRAG, Self-RAG). Evaluated using RAGAS, DeepEval, and Grouse.
+`Python` `LangChain` `Groq API` `FAISS` `Hugging Face Embeddings`
+
+**[Real-Time Chat Application](#)**
+A fully responsive real-time chat app with one-to-one messaging, live presence indicators, unseen message tracking, instant user search, and JWT-based authentication — improving user response speed by 30%.
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `Tailwind CSS`
+
+---
+
+## 🛠️ Tech Stack
+
+![Languages](https://skillicons.dev/icons?i=cpp,java,python,js,html,css)
 ![Frameworks](https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express)
-![Databases](https://skillicons.dev/icons?i=postgres,mongo)
+![Databases](https://skillicons.dev/icons?i=postgres,mongo,mysql)
+![ML/AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
+---
 
 
-##  Get in Touch
+## 📫 Get in Touch
 
--  Email: [Email](mailto:singhranjeet1303@gmail.com)
--  LinkedIn: [LinkedIn](www.linkedin.com/in/ranjeet-singh-669416251)
-
+- Email: [singhranjeet1303@gmail.com](mailto:singhranjeet1303@gmail.com)
+- LinkedIn: [ranjeet-singh-669416251](https://www.linkedin.com/in/ranjeet-singh-669416251)
+- LeetCode: [Profile](#)
 
 ---
 
